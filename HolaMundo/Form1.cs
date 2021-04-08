@@ -19,6 +19,8 @@ namespace HolaMundo
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            // Primer proyecto en C#.
             label1.Text = "Hola Mundo!";
         }
     }
